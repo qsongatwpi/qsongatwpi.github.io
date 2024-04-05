@@ -7,7 +7,7 @@ I am a professor at Worcester Polytechnic Institute. My research interests inclu
 
 ### Research
 
-My research interests are focused on Stochastic Control Theory, a field that connects probability and PDE analysis. Recently, I have been interested in the area of Mean Field Game/Control.
+My research interests are focused on Stochastic Control Theory, a field that connects probability and PDE analysis. Applications include  mathematical finance and various engineering problems. Recently, I have been interested in the area of Mean Field Game/Control.
 
 ### Contact
 
