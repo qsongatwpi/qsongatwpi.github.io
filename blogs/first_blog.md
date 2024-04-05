@@ -24,4 +24,7 @@ Euler's identity is a beautiful equation that relates five fundamental mathemati
 
 These are just a few examples of the many fascinating LaTeX formulas out there. Stay tuned for more interesting topics in my upcoming blog posts!
 
+## Additional Resources
+If you want to learn more about LaTeX formulas, you can search for them on [Google](https://www.google.com) for further information.
+
 Thanks for reading!
