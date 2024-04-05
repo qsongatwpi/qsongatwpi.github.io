@@ -1,4 +1,3 @@
-# Qingshuo Song
 
 ## Worcester Polytechnic Institute (WPI)
 
