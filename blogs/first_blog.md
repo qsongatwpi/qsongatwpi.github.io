@@ -6,7 +6,7 @@ Welcome to my first blog post! In this post, I will be discussing some interesti
 
 The quadratic equation is given by:
 
-\[ ax^2 + bx + c = 0 \]
+$$ ax^2 + bx + c = 0 $$
 
 where \( a \), \( b \), and \( c \) are constants.
 
