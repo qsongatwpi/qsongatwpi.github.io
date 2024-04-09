@@ -1,9 +1,7 @@
 
-## [Worcester Polytechnic Institute (WPI)](https://www.wpi.edu/)
-
 ### About
 
-I am a professor at [Department of Mathematical Sciences](https://www.wpi.edu/academics/departments/mathematical-sciences), WPI. My research interests include stochastic control theory and its applications to mathematical finance and various engineering problems. I received my BSc from [Nankai University](https://en.nankai.edu.cn/) in 1996, MA and PhD from [Wayne State University](https://wayne.edu/) in 2006. Prior to joining WPI in 2019, I held positions at [City University of Hong Kong](https://www.cityu.edu.hk/) as an Associate Professor (2010-2018), [University of Michigan](https://umich.edu/) as a PostDoc (2009), and [University of Southern California](https://usc.edu/) as a PostDoc (2006-2009).
+I am a professor at [Department of Mathematical Sciences](https://www.wpi.edu/academics/departments/mathematical-sciences), [WPI](https://www.wpi.edu). My research interests include stochastic control theory and its applications to mathematical finance and various engineering problems. I received my BSc from [Nankai University](https://en.nankai.edu.cn/) in 1996, MA and PhD from [Wayne State University](https://wayne.edu/) in 2006. Prior to joining WPI in 2019, I held positions at [City University of Hong Kong](https://www.cityu.edu.hk/) as an Associate Professor (2010-2018), [University of Michigan](https://umich.edu/) as a PostDoc (2009), and [University of Southern California](https://usc.edu/) as a PostDoc (2006-2009).
 
 ### Research
 
