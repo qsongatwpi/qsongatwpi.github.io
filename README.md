@@ -9,9 +9,7 @@ My research interests are focused on Stochastic Control Theory, a field that con
 
 ### Contact
 
-- Office: UH 246
-- Email: qsong@wpi.edu
-- Homepage: [https://www.wpi.edu/people/faculty/qsong](https://www.wpi.edu/people/faculty/qsong)
+- Email, Office: [https://www.wpi.edu/people/faculty/qsong](https://www.wpi.edu/people/faculty/qsong)
 
 ### Others
 [github](https://github.com/qsongatwpi?tab=repositories), 
