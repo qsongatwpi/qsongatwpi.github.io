@@ -16,8 +16,6 @@ My research interests are focused on Stochastic Control Theory, a field that con
 [github/MyR](https://github.com/qsongatwpi/MyR),
 
 
----
-
 Test latex display:
 
-$$\alpha + \beta + \theta$$
+$$\alpha + \beta + \theta +1$$
