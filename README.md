@@ -18,4 +18,4 @@ My research interests are focused on Stochastic Control Theory, a field that con
 
 Test latex display:
 
-$$\alpha + \beta + \theta +1$$
+$$\alpha + \beta + \theta + 1$$
