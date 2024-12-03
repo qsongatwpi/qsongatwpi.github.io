@@ -17,6 +17,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-mathjax
 
 # Permalinks
 permalink: /:categories/:year/:month/:day/:title.html
