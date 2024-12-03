@@ -1,4 +1,3 @@
-MathJax: true
 
 ### About
 
