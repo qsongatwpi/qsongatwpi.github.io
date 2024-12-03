@@ -1,6 +1,6 @@
 # Site settings
 title: Qingshuo's Homepage
-description: I am Qingshuo Song.
+description: "Latex does not display properly in my blog."
 url: "https://qsongatwpi.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 
