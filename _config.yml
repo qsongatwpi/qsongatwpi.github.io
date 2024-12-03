@@ -13,13 +13,6 @@ author:
 markdown: kramdown
 theme: minima
 
-# MathJax settings
-mathjax:
-  enable: true
-  input: TeX
-  auto_number: all
-  output: HTML-CSS
-  message_style: none
 
 # Plugins
 plugins:
