@@ -1,18 +1,3 @@
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    TeX: {
-      equationNumbers: { autoNumber: "AMS" }
-    },
-    tex2jax: {
-      inlineMath: [ ['$', '$'] ],
-      displayMath: [ ['$$', '$$'] ],
-      processEscapes: true
-    }
-  });
-</script>
-
-
-
 # My First Blog
 
 Welcome to my first blog post! In this post, I will be discussing some interesting LaTeX formulas.
