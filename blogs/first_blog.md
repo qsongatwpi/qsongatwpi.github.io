@@ -20,7 +20,7 @@ The Pythagorean theorem states that in a right-angled triangle, the square of th
 
 Euler's identity is a beautiful equation that relates five fundamental mathematical constants: \( e \), \( i \), \( \pi \), \( 0 \), and \( 1 \):
 
-$ e^{i\pi} + 1 = 0 $
+$$ e^{i\pi} + 1 = 0 $$
 
 These are just a few examples of the many fascinating LaTeX formulas out there. Stay tuned for more interesting topics in my upcoming blog posts!
 
