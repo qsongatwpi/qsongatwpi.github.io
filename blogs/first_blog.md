@@ -1,6 +1,6 @@
 # My First Blog
 
-Welcome to my first blog post! In this post, I will be discussing some interesting LaTeX formulas.
+Welcome to my first blog post! In this post, I will test latex display in github pages.
 
 ## Formula 1: Quadratic Equation
 
