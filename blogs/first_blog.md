@@ -8,7 +8,7 @@ The quadratic equation is given by:
 
 $$ ax^2 + bx + c = 0 $$
 
-where \( a \), \( b \), and \( c \) are constants.
+where $a, b, c$ are constants.
 
 ## Formula 2: Pythagorean Theorem
 
