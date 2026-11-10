@@ -17,6 +17,3 @@ My research interests are focused on Stochastic Control Theory, a field that con
 [polymath](https://polymathprojects.org/)
 
 
-Test latex display:
-
-$$\alpha + \beta + \theta + 1$$
